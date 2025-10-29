@@ -1,0 +1,10 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+#relogio {
+    background-color: #f3f4f6;
+    padding: 6px 12px;
+    border-radius: 6px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.1);
+}
